@@ -1,7 +1,137 @@
 <!doctype html>
 <html>
     <head>
-        <title>(春也)Haruya Sticker Archive</title>
+        <meta charset="utf-8" />
+        <title>(春也) Haruya Sticker Archive</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+            rel="stylesheet"
+        />
+
+        <style>
+            body {
+                margin: 0;
+                font-family: "Inter", sans-serif;
+                background: #0b0b0f;
+                color: white;
+            }
+
+            h1 {
+                margin: 0;
+                padding: 24px;
+                font-weight: 700;
+                letter-spacing: -0.3px;
+            }
+
+            .section {
+                margin-bottom: 40px;
+            }
+
+            .section-title {
+                padding: 8px 20px;
+                margin: 0;
+                font-size: 13px;
+                letter-spacing: 0.6px;
+                color: #888;
+                text-transform: uppercase;
+            }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+                gap: 12px;
+                padding: 12px 20px 0 20px;
+            }
+
+            .card {
+                background: #16161d;
+                border-radius: 14px;
+                overflow: hidden;
+                cursor: pointer;
+                transition: 0.2s;
+            }
+
+            .card:hover {
+                transform: scale(1.04);
+            }
+
+            img {
+                width: 100%;
+                height: 140px;
+                object-fit: cover;
+                display: block;
+            }
+
+            .title {
+                padding: 10px;
+                text-align: center;
+                font-weight: 600;
+            }
+        </style>
     </head>
-    <body></body>
+
+    <body>
+        <h1>(春也) Haruya Sticker Archive</h1>
+
+        <div id="root"></div>
+
+        <script>
+            fetch("stickers.json")
+                .then((res) => res.json())
+                .then((data) => {
+                    const root = document.getElementById("root");
+
+                    const known = [];
+                    const unknown = [];
+
+                    data.forEach((pack) => {
+                        if (pack.folder.startsWith("_IDK")) {
+                            unknown.push(pack);
+                        } else {
+                            known.push(pack);
+                        }
+                    });
+
+                    function createSection(title, items) {
+                        if (!items.length) return;
+
+                        const section = document.createElement("div");
+                        section.className = "section";
+
+                        const header = document.createElement("div");
+                        header.className = "section-title";
+                        header.textContent = title;
+
+                        const grid = document.createElement("div");
+                        grid.className = "grid";
+
+                        items.forEach((pack) => {
+                            const card = document.createElement("div");
+                            card.className = "card";
+
+                            card.innerHTML = `
+          <img src="${pack.preview}">
+          <div class="title">${pack.name}</div>
+        `;
+
+                            card.onclick = () => {
+                                window.location.href = `gallery.html?folder=${encodeURIComponent(pack.folder)}`;
+                            };
+
+                            grid.appendChild(card);
+                        });
+
+                        section.appendChild(header);
+                        section.appendChild(grid);
+                        root.appendChild(section);
+                    }
+
+                    createSection("Stickers", known);
+                    createSection("Unknown Characters", unknown);
+                });
+        </script>
+    </body>
 </html>

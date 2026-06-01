@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Gallery</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+            rel="stylesheet"
+        />
+
+        <style>
+            body {
+                margin: 0;
+                font-family: "Inter", sans-serif;
+                background: #0b0b0f;
+                color: white;
+            }
+
+            .topbar {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 16px 20px;
+                background: #15151d;
+                border-bottom: 1px solid #222;
+                position: sticky;
+                top: 0;
+            }
+
+            .back {
+                cursor: pointer;
+                color: #aaa;
+                font-weight: 600;
+            }
+
+            .back:hover {
+                color: white;
+            }
+
+            .title {
+                font-weight: 700;
+                font-size: 16px;
+            }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+                gap: 10px;
+                padding: 20px;
+            }
+
+            img {
+                width: 100%;
+                border-radius: 12px;
+                cursor: pointer;
+                transition: 0.15s;
+            }
+
+            img:hover {
+                transform: scale(1.05);
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="topbar">
+            <div class="back" onclick="history.back()">← Back</div>
+            <div class="title" id="title"></div>
+        </div>
+
+        <div class="grid" id="grid"></div>
+
+        <script>
+            const params = new URLSearchParams(window.location.search);
+            const folder = params.get("folder");
+
+            fetch("stickers.json")
+                .then((res) => res.json())
+                .then((data) => {
+                    const pack = data.find((p) => p.folder === folder);
+
+                    if (!pack) {
+                        document.body.innerHTML = "Not found";
+                        return;
+                    }
+
+                    document.getElementById("title").textContent = pack.name;
+
+                    const grid = document.getElementById("grid");
+
+                    pack.images.forEach((src) => {
+                        const img = document.createElement("img");
+                        img.src = src;
+                        img.loading = "lazy";
+
+                        img.onclick = () => {
+                            const a = document.createElement("a");
+                            a.href = src;
+                            a.download = src.split("/").pop();
+                            a.click();
+                        };
+
+                        grid.appendChild(img);
+                    });
+                });
+        </script>
+    </body>
+</html>

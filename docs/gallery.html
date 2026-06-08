@@ -4,7 +4,7 @@
         <meta property="og:title" content="(春也) Haruya Sticker Archive" />
         <meta
             property="og:description"
-            content="Browse and collect stickers from the artist (春也) Haruya. Maintained by roean. and gakoe"
+            content="Browse and collect stickers from the artist (春也) Haruya. Maintained by Karuizawa & O-E"
         />
         <meta property="og:type" content="website" />
         <meta
@@ -157,6 +157,9 @@
         <div id="grid"></div>
 
         <script>
+            const BASE =
+                "https://raw.githubusercontent.com/RoeanAigis/stickers-haruya-site/master/";
+
             const params = new URLSearchParams(window.location.search);
             const folder = params.get("folder");
 
@@ -177,7 +180,7 @@
 
                 items.forEach((src) => {
                     const img = document.createElement("img");
-                    img.src = src;
+                    img.src = BASE + src;
                     img.loading = "lazy";
 
                     img.onclick = () => {
@@ -194,7 +197,7 @@
                 document.getElementById("grid").appendChild(grid);
             }
 
-            fetch("stickers.json")
+            fetch(`${BASE}stickers.json`)
                 .then((res) => res.json())
                 .then((data) => {
                     const pack = data.find((p) => p.folder === folder);

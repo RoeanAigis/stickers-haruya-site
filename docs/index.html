@@ -1,6 +1,20 @@
 <!doctype html>
 <html>
     <head>
+        <meta property="og:title" content="(春也) Haruya Sticker Archive" />
+        <meta
+            property="og:description"
+            content="Browse and collect stickers from the artist (春也) Haruya. Maintained by Karuizawa & O-E"
+        />
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:url"
+            content="https://roeanaigis.github.io/stickers-haruya-site/"
+        />
+        <meta
+            property="og:image"
+            content="https://roeanaigis.github.io/stickers-haruya-site/stickers/Cosmic%20Princess%20Kaguya/04.webp"
+        />
         <meta charset="utf-8" />
         <title>(春也) Haruya Sticker Archive</title>
 
@@ -166,7 +180,10 @@
         </footer>
 
         <script>
-            fetch("stickers.json")
+            const BASE =
+                "https://raw.githubusercontent.com/RoeanAigis/stickers-haruya-site/master/";
+
+            fetch(`${BASE}stickers.json`)
                 .then((res) => res.json())
                 .then((data) => {
                     const root = document.getElementById("root");
@@ -200,7 +217,7 @@
                             card.className = "card";
 
                             card.innerHTML = `
-                                <img src="${pack.preview}">
+                                <img src="${BASE + pack.preview}">
                                 <div class="title">${pack.name}</div>
                             `;
 

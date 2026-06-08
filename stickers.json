@@ -24,7 +24,76 @@
       "stickers/Amaori Haruna (Renako)/\u6d47\u6c34.gif",
       "stickers/Amaori Haruna (Renako)/\u7eb8\u7bb1.gif",
       "stickers/Amaori Haruna (Renako)/\u9634\u9669.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Angelina",
+    "folder": "Angelina",
+    "preview": "stickers/Angelina/01.gif",
+    "images": [
+      "stickers/Angelina/01.gif",
+      "stickers/Angelina/02.gif",
+      "stickers/Angelina/03.gif",
+      "stickers/Angelina/04.gif",
+      "stickers/Angelina/05.gif",
+      "stickers/Angelina/06.gif",
+      "stickers/Angelina/07.gif",
+      "stickers/Angelina/08.gif",
+      "stickers/Angelina/09.gif",
+      "stickers/Angelina/10.gif",
+      "stickers/Angelina/11.gif",
+      "stickers/Angelina/12.gif",
+      "stickers/Angelina/13.gif",
+      "stickers/Angelina/14.gif",
+      "stickers/Angelina/15.gif",
+      "stickers/Angelina/16.gif",
+      "stickers/Angelina/17.gif",
+      "stickers/Angelina/18.gif",
+      "stickers/Angelina/19.gif",
+      "stickers/Angelina/20.gif",
+      "stickers/Angelina/21.gif",
+      "stickers/Angelina/22.gif",
+      "stickers/Angelina/23.gif",
+      "stickers/Angelina/24.gif",
+      "stickers/Angelina/25.gif",
+      "stickers/Angelina/26.gif",
+      "stickers/Angelina/27.gif",
+      "stickers/Angelina/28.gif",
+      "stickers/Angelina/29.gif",
+      "stickers/Angelina/30.gif",
+      "stickers/Angelina/31.gif",
+      "stickers/Angelina/32.gif",
+      "stickers/Angelina/33.gif",
+      "stickers/Angelina/34.gif",
+      "stickers/Angelina/35.gif",
+      "stickers/Angelina/36.gif",
+      "stickers/Angelina/37.gif",
+      "stickers/Angelina/38.gif",
+      "stickers/Angelina/39.gif",
+      "stickers/Angelina/40.gif",
+      "stickers/Angelina/41.gif",
+      "stickers/Angelina/42.gif",
+      "stickers/Angelina/43.gif",
+      "stickers/Angelina/44.gif",
+      "stickers/Angelina/45.gif",
+      "stickers/Angelina/46.gif",
+      "stickers/Angelina/47.gif",
+      "stickers/Angelina/48.gif",
+      "stickers/Angelina/49.gif",
+      "stickers/Angelina/50.gif",
+      "stickers/Angelina/51.gif",
+      "stickers/Angelina/52.gif",
+      "stickers/Angelina/53.gif",
+      "stickers/Angelina/54.gif",
+      "stickers/Angelina/55.gif",
+      "stickers/Angelina/56.gif",
+      "stickers/Angelina/57.gif",
+      "stickers/Angelina/58.gif",
+      "stickers/Angelina/59.gif",
+      "stickers/Angelina/60.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Anon Chihaya",
@@ -109,7 +178,8 @@
       "stickers/Anon Chihaya/76.gif",
       "stickers/Anon Chihaya/77.gif",
       "stickers/Anon Chihaya/78.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Anon Chihaya (Costumes)",
@@ -176,7 +246,36 @@
       "stickers/Anon Chihaya (Costumes)/58.gif",
       "stickers/Anon Chihaya (Costumes)/59.gif",
       "stickers/Anon Chihaya (Costumes)/60.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Aris",
+    "folder": "Aris",
+    "preview": "stickers/Aris/01.gif",
+    "images": [
+      "stickers/Aris/01.gif",
+      "stickers/Aris/02.gif",
+      "stickers/Aris/03.gif",
+      "stickers/Aris/04.gif",
+      "stickers/Aris/05.gif",
+      "stickers/Aris/06.gif",
+      "stickers/Aris/07.gif",
+      "stickers/Aris/08.gif",
+      "stickers/Aris/09.gif",
+      "stickers/Aris/10.gif",
+      "stickers/Aris/11.gif",
+      "stickers/Aris/12.gif",
+      "stickers/Aris/13.gif",
+      "stickers/Aris/14.gif",
+      "stickers/Aris/15.gif",
+      "stickers/Aris/16.gif",
+      "stickers/Aris/17.gif",
+      "stickers/Aris/18.gif",
+      "stickers/Aris/19.gif",
+      "stickers/Aris/20.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Asahi Rokka",
@@ -203,7 +302,30 @@
       "stickers/Asahi Rokka/18.gif",
       "stickers/Asahi Rokka/19.gif",
       "stickers/Asahi Rokka/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Castorice",
+    "folder": "Castorice",
+    "preview": "stickers/Castorice/LM_00.gif",
+    "images": [],
+    "lostmedia": [
+      "stickers/Castorice/LM_00.gif",
+      "stickers/Castorice/LM_01.gif",
+      "stickers/Castorice/LM_02.gif"
     ]
+  },
+  {
+    "name": "Chen Qianyu",
+    "folder": "Chen Qianyu",
+    "preview": "stickers/Chen Qianyu/651c7b1265b9acba5f79567fa9620cfe3668d9bcf1a45d516cb1b95c7a8e21f1.gif",
+    "images": [
+      "stickers/Chen Qianyu/651c7b1265b9acba5f79567fa9620cfe3668d9bcf1a45d516cb1b95c7a8e21f1.gif",
+      "stickers/Chen Qianyu/8d3007e2edcce5abb3545d0bb3020a896b1f4132925e0ea223f493279e62a9ed.gif",
+      "stickers/Chen Qianyu/a39baa228867277eab75af469a212ab80cb10df4e5e0b2440689c959fffeac82.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Cirno",
@@ -312,7 +434,8 @@
       "stickers/Cirno/97.gif",
       "stickers/Cirno/98.gif",
       "stickers/Cirno/99.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Cosmic Princess Kaguya",
@@ -325,7 +448,8 @@
       "stickers/Cosmic Princess Kaguya/04.webp",
       "stickers/Cosmic Princess Kaguya/05.webp",
       "stickers/Cosmic Princess Kaguya/06.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Daiyousei",
@@ -392,6 +516,58 @@
       "stickers/Daiyousei/58.gif",
       "stickers/Daiyousei/59.gif",
       "stickers/Daiyousei/60.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Endministrator",
+    "folder": "Endministrator",
+    "preview": "stickers/Endministrator/4b2723ddc785b8189d854d7cb0cc1dcfe1a4350ae865dd4f6f3d4b7fb29829e5.gif",
+    "images": [
+      "stickers/Endministrator/4b2723ddc785b8189d854d7cb0cc1dcfe1a4350ae865dd4f6f3d4b7fb29829e5.gif",
+      "stickers/Endministrator/4c3d4a4b16fdfc4ce4f71079369974c0503ab36033e7df5998c01127c2cceaec.gif",
+      "stickers/Endministrator/663580d477ac5f1c5cfafaeffccc3c045f38a4ce2aedc0bc06c164218cfd25d0.gif",
+      "stickers/Endministrator/702bb4b43ee8ddc720a3575aad0a5d5a43cf4a341220a970e68a0a8f6cca365a.gif",
+      "stickers/Endministrator/e6e3433f894023758d340a14ce7111b4e489098d6df17baff450a8b1b45bf76e.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Eve-Chan",
+    "folder": "Eve-Chan",
+    "preview": "stickers/Eve-Chan/01.gif",
+    "images": [
+      "stickers/Eve-Chan/01.gif",
+      "stickers/Eve-Chan/02.gif",
+      "stickers/Eve-Chan/tweeload_8n2lsc6v.gif",
+      "stickers/Eve-Chan/tweeload_a7oqcb3o.gif",
+      "stickers/Eve-Chan/tweeload_ccmd6rbl.gif",
+      "stickers/Eve-Chan/tweeload_evr4cyye.gif",
+      "stickers/Eve-Chan/tweeload_f9tvw0f5.gif",
+      "stickers/Eve-Chan/tweeload_fcg3z7ss.gif",
+      "stickers/Eve-Chan/tweeload_g21o0izo.gif",
+      "stickers/Eve-Chan/tweeload_he03ss4w.gif",
+      "stickers/Eve-Chan/tweeload_ighsm6i2.gif",
+      "stickers/Eve-Chan/tweeload_jehhivfm.gif",
+      "stickers/Eve-Chan/tweeload_jqwedozs.gif",
+      "stickers/Eve-Chan/tweeload_la38nw4x.gif",
+      "stickers/Eve-Chan/tweeload_llcwhqqi.gif",
+      "stickers/Eve-Chan/tweeload_m6u2kfwt.gif",
+      "stickers/Eve-Chan/tweeload_pedz6ef7.gif",
+      "stickers/Eve-Chan/tweeload_u2j0t1p9.gif",
+      "stickers/Eve-Chan/tweeload_wcbh2bkw.gif",
+      "stickers/Eve-Chan/tweeload_zpqrrjm6.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Evernight",
+    "folder": "Evernight",
+    "preview": "stickers/Evernight/LM_01.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/Evernight/LM_01.png",
+      "stickers/Evernight/LM_02.png"
     ]
   },
   {
@@ -419,7 +595,8 @@
       "stickers/Flandre Scarlet/18.gif",
       "stickers/Flandre Scarlet/19.gif",
       "stickers/Flandre Scarlet/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Furina",
@@ -462,7 +639,8 @@
       "stickers/Furina/34.gif",
       "stickers/Furina/35.gif",
       "stickers/Furina/36.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Ganyu",
@@ -540,7 +718,8 @@
       "stickers/Ganyu/\u8d34\u8138.gif",
       "stickers/Ganyu/\u9707\u60ca.gif",
       "stickers/Ganyu/\u9f13\u638c.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Hakurei Reimu",
@@ -599,7 +778,8 @@
       "stickers/Hakurei Reimu/50.gif",
       "stickers/Hakurei Reimu/51.gif",
       "stickers/Hakurei Reimu/52.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Hakurei Reimu (Blue Lemon)",
@@ -638,7 +818,8 @@
       "stickers/Hakurei Reimu (Blue Lemon)/30.gif",
       "stickers/Hakurei Reimu (Blue Lemon)/31.gif",
       "stickers/Hakurei Reimu (Blue Lemon)/32.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Hinanawi Tenshi",
@@ -685,7 +866,8 @@
       "stickers/Hinanawi Tenshi/38.gif",
       "stickers/Hinanawi Tenshi/39.gif",
       "stickers/Hinanawi Tenshi/40.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Hirasawa Yui",
@@ -712,7 +894,8 @@
       "stickers/Hirasawa Yui/18.gif",
       "stickers/Hirasawa Yui/19.gif",
       "stickers/Hirasawa Yui/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Hitori Gotoh",
@@ -731,6 +914,16 @@
       "stickers/Hitori Gotoh/10.webp",
       "stickers/Hitori Gotoh/11.webp",
       "stickers/Hitori Gotoh/12.webp"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Hu Tao",
+    "folder": "Hu Tao",
+    "preview": "stickers/Hu Tao/LM_00.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/Hu Tao/LM_00.png"
     ]
   },
   {
@@ -744,7 +937,8 @@
       "stickers/Ikuyo Kita/04.webp",
       "stickers/Ikuyo Kita/05.webp",
       "stickers/Ikuyo Kita/06.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Iroha",
@@ -783,7 +977,8 @@
       "stickers/Iroha/30.webp",
       "stickers/Iroha/31.webp",
       "stickers/Iroha/32.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Kaname Raana",
@@ -830,7 +1025,8 @@
       "stickers/Kaname Raana/157.webp",
       "stickers/Kaname Raana/158.webp",
       "stickers/Kaname Raana/159.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Kaveh",
@@ -851,7 +1047,8 @@
       "stickers/Kaveh/12.webp",
       "stickers/Kaveh/13.webp",
       "stickers/Kaveh/14.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Kirisame Marisa",
@@ -912,7 +1109,8 @@
       "stickers/Kirisame Marisa/52.gif",
       "stickers/Kirisame Marisa/53.gif",
       "stickers/Kirisame Marisa/54.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Komeiji Koishi",
@@ -959,7 +1157,8 @@
       "stickers/Komeiji Koishi/38.gif",
       "stickers/Komeiji Koishi/39.gif",
       "stickers/Komeiji Koishi/40.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Komeiji Satori",
@@ -986,6 +1185,58 @@
       "stickers/Komeiji Satori/18.gif",
       "stickers/Komeiji Satori/19.gif",
       "stickers/Komeiji Satori/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Kopter",
+    "folder": "Kopter",
+    "preview": "stickers/Kopter/01.gif",
+    "images": [
+      "stickers/Kopter/01.gif",
+      "stickers/Kopter/tweeload_3c881d56.gif",
+      "stickers/Kopter/tweeload_52z3hqj4.gif",
+      "stickers/Kopter/tweeload_8ae4cmu3.gif",
+      "stickers/Kopter/tweeload_8ahe9jws.gif",
+      "stickers/Kopter/tweeload_8lq47sfj.gif",
+      "stickers/Kopter/tweeload_acg2h0qe.gif",
+      "stickers/Kopter/tweeload_fez771xv.gif",
+      "stickers/Kopter/tweeload_ho6zxxc8.gif",
+      "stickers/Kopter/tweeload_jkam6ey2.gif",
+      "stickers/Kopter/tweeload_k70tge4i.gif",
+      "stickers/Kopter/tweeload_kcpazzb2.gif",
+      "stickers/Kopter/tweeload_lubo2rv1.gif",
+      "stickers/Kopter/tweeload_q2ljeci2.gif",
+      "stickers/Kopter/tweeload_u4kpcxcf.gif",
+      "stickers/Kopter/tweeload_v9ukzun5.gif",
+      "stickers/Kopter/tweeload_y748u44f.gif",
+      "stickers/Kopter/tweeload_ywvrf9gv.gif",
+      "stickers/Kopter/tweeload_ztr85lu8.gif",
+      "stickers/Kopter/tweeload_zz6aiwvk.gif"
+    ],
+    "lostmedia": [
+      "stickers/Kopter/LM_01.jpg",
+      "stickers/Kopter/LM_02.jpg",
+      "stickers/Kopter/LM_03.jpg",
+      "stickers/Kopter/LM_04.jpg",
+      "stickers/Kopter/LM_05.jpg",
+      "stickers/Kopter/LM_06.jpg",
+      "stickers/Kopter/LM_07.jpg",
+      "stickers/Kopter/LM_08.jpg",
+      "stickers/Kopter/LM_09.jpg",
+      "stickers/Kopter/LM_11.jpg",
+      "stickers/Kopter/LM_12.jpg",
+      "stickers/Kopter/LM_13.jpg",
+      "stickers/Kopter/LM_14.jpg",
+      "stickers/Kopter/LM_15.jpg",
+      "stickers/Kopter/LM_16.jpg",
+      "stickers/Kopter/LM_17.jpg",
+      "stickers/Kopter/LM_18.jpg",
+      "stickers/Kopter/LM_19.jpg",
+      "stickers/Kopter/LM_20.jpg",
+      "stickers/Kopter/LM_21.jpg",
+      "stickers/Kopter/LM_22.jpg",
+      "stickers/Kopter/LM_23.jpg"
     ]
   },
   {
@@ -1012,8 +1263,10 @@
       "stickers/Kotone Fujita/17.gif",
       "stickers/Kotone Fujita/18.gif",
       "stickers/Kotone Fujita/19.gif",
-      "stickers/Kotone Fujita/20.gif"
-    ]
+      "stickers/Kotone Fujita/20.gif",
+      "stickers/Kotone Fujita/200.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Kotone Fujita (McDonalds)",
@@ -1069,15 +1322,63 @@
       "stickers/Kotone Fujita (McDonalds)/47.gif",
       "stickers/Kotone Fujita (McDonalds)/48.gif",
       "stickers/Kotone Fujita (McDonalds)/49.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Kurumi Tokisaki",
+    "folder": "Kurumi Tokisaki",
+    "preview": "stickers/Kurumi Tokisaki/LM_00.gif",
+    "images": [],
+    "lostmedia": [
+      "stickers/Kurumi Tokisaki/LM_00.gif",
+      "stickers/Kurumi Tokisaki/LM_01.png",
+      "stickers/Kurumi Tokisaki/LM_02.png",
+      "stickers/Kurumi Tokisaki/LM_03.png",
+      "stickers/Kurumi Tokisaki/LM_04.png",
+      "stickers/Kurumi Tokisaki/LM_05.png",
+      "stickers/Kurumi Tokisaki/LM_06.png"
+    ]
+  },
+  {
+    "name": "Madara",
+    "folder": "Madara",
+    "preview": "stickers/Madara/LM_00.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/Madara/LM_00.png",
+      "stickers/Madara/LM_01.png",
+      "stickers/Madara/LM_02.png",
+      "stickers/Madara/LM_03.png"
     ]
   },
   {
     "name": "Makoto Yuki",
     "folder": "Makoto Yuki",
-    "preview": "stickers/Makoto Yuki/01.gif",
+    "preview": "stickers/Makoto Yuki/00.webp",
     "images": [
-      "stickers/Makoto Yuki/01.gif"
-    ]
+      "stickers/Makoto Yuki/00.webp",
+      "stickers/Makoto Yuki/01.webp",
+      "stickers/Makoto Yuki/02.webp",
+      "stickers/Makoto Yuki/03.webp",
+      "stickers/Makoto Yuki/04.webp",
+      "stickers/Makoto Yuki/05.webp",
+      "stickers/Makoto Yuki/06.webp",
+      "stickers/Makoto Yuki/07.webp",
+      "stickers/Makoto Yuki/08.webp",
+      "stickers/Makoto Yuki/09.webp",
+      "stickers/Makoto Yuki/10.webp",
+      "stickers/Makoto Yuki/11.webp",
+      "stickers/Makoto Yuki/12.webp",
+      "stickers/Makoto Yuki/13.webp",
+      "stickers/Makoto Yuki/14.webp",
+      "stickers/Makoto Yuki/15.webp",
+      "stickers/Makoto Yuki/16.webp",
+      "stickers/Makoto Yuki/17.webp",
+      "stickers/Makoto Yuki/18.webp",
+      "stickers/Makoto Yuki/19.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "MiSide",
@@ -1124,7 +1425,81 @@
       "stickers/MiSide/38.gif",
       "stickers/MiSide/39.gif",
       "stickers/MiSide/40.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Minori Hanasato",
+    "folder": "Minori Hanasato",
+    "preview": "stickers/Minori Hanasato/LM_00.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/Minori Hanasato/LM_00.png"
     ]
+  },
+  {
+    "name": "Misumi Uika",
+    "folder": "Misumi Uika",
+    "preview": "stickers/Misumi Uika/199.webp",
+    "images": [
+      "stickers/Misumi Uika/199.webp",
+      "stickers/Misumi Uika/200.webp",
+      "stickers/Misumi Uika/201.webp",
+      "stickers/Misumi Uika/202.webp",
+      "stickers/Misumi Uika/203.webp",
+      "stickers/Misumi Uika/204.webp",
+      "stickers/Misumi Uika/205.webp",
+      "stickers/Misumi Uika/206.webp",
+      "stickers/Misumi Uika/207.webp",
+      "stickers/Misumi Uika/208.webp",
+      "stickers/Misumi Uika/209.webp",
+      "stickers/Misumi Uika/210.webp",
+      "stickers/Misumi Uika/211.webp",
+      "stickers/Misumi Uika/212.webp",
+      "stickers/Misumi Uika/213.webp",
+      "stickers/Misumi Uika/214.webp",
+      "stickers/Misumi Uika/215.webp"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Misumi Uika (Costume)",
+    "folder": "Misumi Uika (Costume)",
+    "preview": "stickers/Misumi Uika (Costume)/01.gif",
+    "images": [
+      "stickers/Misumi Uika (Costume)/01.gif",
+      "stickers/Misumi Uika (Costume)/02.gif",
+      "stickers/Misumi Uika (Costume)/03.gif",
+      "stickers/Misumi Uika (Costume)/04.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Murasame",
+    "folder": "Murasame",
+    "preview": "stickers/Murasame/01.gif",
+    "images": [
+      "stickers/Murasame/01.gif",
+      "stickers/Murasame/02.gif",
+      "stickers/Murasame/03.gif",
+      "stickers/Murasame/04.gif",
+      "stickers/Murasame/05.gif",
+      "stickers/Murasame/06.gif",
+      "stickers/Murasame/07.gif",
+      "stickers/Murasame/08.gif",
+      "stickers/Murasame/09.gif",
+      "stickers/Murasame/10.gif",
+      "stickers/Murasame/11.gif",
+      "stickers/Murasame/12.gif",
+      "stickers/Murasame/13.gif",
+      "stickers/Murasame/14.gif",
+      "stickers/Murasame/15.gif",
+      "stickers/Murasame/16.gif",
+      "stickers/Murasame/17.gif",
+      "stickers/Murasame/18.gif",
+      "stickers/Murasame/senren-banka-murasame.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "NGO Ame",
@@ -1151,7 +1526,8 @@
       "stickers/NGO Ame/18.gif",
       "stickers/NGO Ame/19.gif",
       "stickers/NGO Ame/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "NGO KAngel",
@@ -1190,7 +1566,8 @@
       "stickers/NGO KAngel/30.gif",
       "stickers/NGO KAngel/31.gif",
       "stickers/NGO KAngel/32.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Nijika Ijichi",
@@ -1206,7 +1583,8 @@
       "stickers/Nijika Ijichi/07.webp",
       "stickers/Nijika Ijichi/08.webp",
       "stickers/Nijika Ijichi/09.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Nyamu Y\u016btenji",
@@ -1233,7 +1611,8 @@
       "stickers/Nyamu Y\u016btenji/18.gif",
       "stickers/Nyamu Y\u016btenji/19.gif",
       "stickers/Nyamu Y\u016btenji/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Nyubara Reona",
@@ -1260,7 +1639,8 @@
       "stickers/Nyubara Reona/18.gif",
       "stickers/Nyubara Reona/19.gif",
       "stickers/Nyubara Reona/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Otonashi Ayana",
@@ -1287,6 +1667,20 @@
       "stickers/Otonashi Ayana/18.gif",
       "stickers/Otonashi Ayana/19.gif",
       "stickers/Otonashi Ayana/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Perlica",
+    "folder": "Perlica",
+    "preview": "stickers/Perlica/09354b1433d398f2485200b8ce44c91512008daa08264a7d7897d2cbb22416c3.gif",
+    "images": [
+      "stickers/Perlica/09354b1433d398f2485200b8ce44c91512008daa08264a7d7897d2cbb22416c3.gif",
+      "stickers/Perlica/c7bfa6f2ec96608f87df4e0d1ec20c99c611456177066d4f93e593a54f9481e2.gif",
+      "stickers/Perlica/e1d8591f8cfd861965aca2304a883a1b42b5c9f235574ead38b498034592aa2a.gif"
+    ],
+    "lostmedia": [
+      "stickers/Perlica/LM_01.png"
     ]
   },
   {
@@ -1319,7 +1713,8 @@
       "stickers/RAISE A SUILEN/RAISE A SUILEN \u8868\u60c5\u5305_\u7ad9\u4f4f\uff01_0710_235256.png",
       "stickers/RAISE A SUILEN/RAISE A SUILEN \u8868\u60c5\u5305_\u8fd9\u53ef\u4e0d\u884c_0710_235256.png",
       "stickers/RAISE A SUILEN/RAISE A SUILEN \u8868\u60c5\u5305_\u95ea\u4eae_0710_235256.png"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Reisen",
@@ -1346,7 +1741,8 @@
       "stickers/Reisen/18.gif",
       "stickers/Reisen/19.gif",
       "stickers/Reisen/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Remilia Scarlet",
@@ -1373,17 +1769,131 @@
       "stickers/Remilia Scarlet/18.gif",
       "stickers/Remilia Scarlet/19.gif",
       "stickers/Remilia Scarlet/20.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Rossi",
+    "folder": "Rossi",
+    "preview": "stickers/Rossi/00.webp",
+    "images": [
+      "stickers/Rossi/00.webp",
+      "stickers/Rossi/01.webp",
+      "stickers/Rossi/02.webp",
+      "stickers/Rossi/03.webp",
+      "stickers/Rossi/04.webp",
+      "stickers/Rossi/05.webp",
+      "stickers/Rossi/06.webp",
+      "stickers/Rossi/07.webp",
+      "stickers/Rossi/08.webp",
+      "stickers/Rossi/09.webp",
+      "stickers/Rossi/10.webp",
+      "stickers/Rossi/11.webp",
+      "stickers/Rossi/12.webp",
+      "stickers/Rossi/13.webp",
+      "stickers/Rossi/14.webp",
+      "stickers/Rossi/15.webp",
+      "stickers/Rossi/16.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Saiba Midori",
     "folder": "Saiba Midori",
-    "preview": "stickers/Saiba Midori/01.webp",
+    "preview": "stickers/Saiba Midori/01.gif",
     "images": [
-      "stickers/Saiba Midori/01.webp",
-      "stickers/Saiba Midori/02.webp",
-      "stickers/Saiba Midori/03.webp"
-    ]
+      "stickers/Saiba Midori/01.gif",
+      "stickers/Saiba Midori/02.gif",
+      "stickers/Saiba Midori/03.gif",
+      "stickers/Saiba Midori/04.gif",
+      "stickers/Saiba Midori/05.gif",
+      "stickers/Saiba Midori/06.gif",
+      "stickers/Saiba Midori/07.gif",
+      "stickers/Saiba Midori/08.gif",
+      "stickers/Saiba Midori/09.gif",
+      "stickers/Saiba Midori/10.gif",
+      "stickers/Saiba Midori/11.gif",
+      "stickers/Saiba Midori/12.gif",
+      "stickers/Saiba Midori/13.gif",
+      "stickers/Saiba Midori/14.gif",
+      "stickers/Saiba Midori/15.gif",
+      "stickers/Saiba Midori/16.gif",
+      "stickers/Saiba Midori/17.gif",
+      "stickers/Saiba Midori/18.gif",
+      "stickers/Saiba Midori/19.gif",
+      "stickers/Saiba Midori/20.gif",
+      "stickers/Saiba Midori/21.gif",
+      "stickers/Saiba Midori/22.gif",
+      "stickers/Saiba Midori/23.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Saiba Midori (Costume 2)",
+    "folder": "Saiba Midori (Costume 2)",
+    "preview": "stickers/Saiba Midori (Costume 2)/01.gif",
+    "images": [
+      "stickers/Saiba Midori (Costume 2)/01.gif",
+      "stickers/Saiba Midori (Costume 2)/02.gif",
+      "stickers/Saiba Midori (Costume 2)/03.gif",
+      "stickers/Saiba Midori (Costume 2)/04.gif",
+      "stickers/Saiba Midori (Costume 2)/05.gif",
+      "stickers/Saiba Midori (Costume 2)/06.gif",
+      "stickers/Saiba Midori (Costume 2)/07.gif",
+      "stickers/Saiba Midori (Costume 2)/08.gif",
+      "stickers/Saiba Midori (Costume 2)/09.gif",
+      "stickers/Saiba Midori (Costume 2)/10.gif",
+      "stickers/Saiba Midori (Costume 2)/11.gif",
+      "stickers/Saiba Midori (Costume 2)/12.gif",
+      "stickers/Saiba Midori (Costume 2)/13.gif",
+      "stickers/Saiba Midori (Costume 2)/14.gif",
+      "stickers/Saiba Midori (Costume 2)/15.gif",
+      "stickers/Saiba Midori (Costume 2)/16.gif",
+      "stickers/Saiba Midori (Costume 2)/17.gif",
+      "stickers/Saiba Midori (Costume 2)/18.gif",
+      "stickers/Saiba Midori (Costume 2)/19.gif",
+      "stickers/Saiba Midori (Costume 2)/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Saiba Midori (Costume)",
+    "folder": "Saiba Midori (Costume)",
+    "preview": "stickers/Saiba Midori (Costume)/01.gif",
+    "images": [
+      "stickers/Saiba Midori (Costume)/01.gif",
+      "stickers/Saiba Midori (Costume)/02.gif",
+      "stickers/Saiba Midori (Costume)/03.gif",
+      "stickers/Saiba Midori (Costume)/04.gif",
+      "stickers/Saiba Midori (Costume)/05.gif",
+      "stickers/Saiba Midori (Costume)/06.gif",
+      "stickers/Saiba Midori (Costume)/07.gif",
+      "stickers/Saiba Midori (Costume)/08.gif",
+      "stickers/Saiba Midori (Costume)/09.gif",
+      "stickers/Saiba Midori (Costume)/10.gif",
+      "stickers/Saiba Midori (Costume)/11.gif",
+      "stickers/Saiba Midori (Costume)/12.gif",
+      "stickers/Saiba Midori (Costume)/13.gif",
+      "stickers/Saiba Midori (Costume)/14.gif",
+      "stickers/Saiba Midori (Costume)/15.gif",
+      "stickers/Saiba Midori (Costume)/16.gif",
+      "stickers/Saiba Midori (Costume)/17.gif",
+      "stickers/Saiba Midori (Costume)/18.gif",
+      "stickers/Saiba Midori (Costume)/19.gif",
+      "stickers/Saiba Midori (Costume)/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Saiba Momoi",
+    "folder": "Saiba Momoi",
+    "preview": "stickers/Saiba Momoi/00.webp",
+    "images": [
+      "stickers/Saiba Momoi/00.webp",
+      "stickers/Saiba Momoi/01.webp",
+      "stickers/Saiba Momoi/02.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Saki Tenma",
@@ -1391,7 +1901,8 @@
     "preview": "stickers/Saki Tenma/01.webp",
     "images": [
       "stickers/Saki Tenma/01.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Sandrone",
@@ -1415,7 +1926,8 @@
       "stickers/Sandrone/15.webp",
       "stickers/Sandrone/16.webp",
       "stickers/Sandrone/17.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Satou Masuki",
@@ -1442,7 +1954,26 @@
       "stickers/Satou Masuki/18.gif",
       "stickers/Satou Masuki/19.gif",
       "stickers/Satou Masuki/20.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Shorekeeper",
+    "folder": "Shorekeeper",
+    "preview": "stickers/Shorekeeper/01.gif",
+    "images": [
+      "stickers/Shorekeeper/01.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Silverwolf 999",
+    "folder": "Silverwolf 999",
+    "preview": "stickers/Silverwolf 999/01.gif",
+    "images": [
+      "stickers/Silverwolf 999/01.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Soyo Nagasaki",
@@ -1469,6 +2000,8 @@
       "stickers/Soyo Nagasaki/18.gif",
       "stickers/Soyo Nagasaki/19.gif",
       "stickers/Soyo Nagasaki/20.gif",
+      "stickers/Soyo Nagasaki/200.webp",
+      "stickers/Soyo Nagasaki/201.webp",
       "stickers/Soyo Nagasaki/21.gif",
       "stickers/Soyo Nagasaki/22.gif",
       "stickers/Soyo Nagasaki/23.gif",
@@ -1489,7 +2022,8 @@
       "stickers/Soyo Nagasaki/38.gif",
       "stickers/Soyo Nagasaki/39.gif",
       "stickers/Soyo Nagasaki/40.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Soyo Nagasaki (Costumes)",
@@ -1556,7 +2090,8 @@
       "stickers/Soyo Nagasaki (Costumes)/58.gif",
       "stickers/Soyo Nagasaki (Costumes)/59.gif",
       "stickers/Soyo Nagasaki (Costumes)/60.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Subaru Awa",
@@ -1590,7 +2125,49 @@
       "stickers/Subaru Awa/25.gif",
       "stickers/Subaru Awa/26.gif",
       "stickers/Subaru Awa/27.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Sumita Mana",
+    "folder": "Sumita Mana",
+    "preview": "stickers/Sumita Mana/01.gif",
+    "images": [
+      "stickers/Sumita Mana/01.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Tachibana Sherry",
+    "folder": "Tachibana Sherry",
+    "preview": "stickers/Tachibana Sherry/01.gif",
+    "images": [
+      "stickers/Tachibana Sherry/01.gif",
+      "stickers/Tachibana Sherry/02.gif",
+      "stickers/Tachibana Sherry/03.gif",
+      "stickers/Tachibana Sherry/04.gif",
+      "stickers/Tachibana Sherry/05.gif",
+      "stickers/Tachibana Sherry/06.gif",
+      "stickers/Tachibana Sherry/07.gif",
+      "stickers/Tachibana Sherry/08.gif",
+      "stickers/Tachibana Sherry/09.gif",
+      "stickers/Tachibana Sherry/10.gif",
+      "stickers/Tachibana Sherry/11.gif",
+      "stickers/Tachibana Sherry/12.gif",
+      "stickers/Tachibana Sherry/13.gif",
+      "stickers/Tachibana Sherry/14.gif",
+      "stickers/Tachibana Sherry/15.gif",
+      "stickers/Tachibana Sherry/16.gif",
+      "stickers/Tachibana Sherry/17.gif",
+      "stickers/Tachibana Sherry/18.gif",
+      "stickers/Tachibana Sherry/19.gif",
+      "stickers/Tachibana Sherry/20.gif",
+      "stickers/Tachibana Sherry/21.gif",
+      "stickers/Tachibana Sherry/22.gif",
+      "stickers/Tachibana Sherry/23.gif",
+      "stickers/Tachibana Sherry/24.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Taffy",
@@ -1703,7 +2280,8 @@
       "stickers/Taffy/97.gif",
       "stickers/Taffy/98.gif",
       "stickers/Taffy/99.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Tamade Chiyu",
@@ -1730,7 +2308,8 @@
       "stickers/Tamade Chiyu/18.gif",
       "stickers/Tamade Chiyu/19.gif",
       "stickers/Tamade Chiyu/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Teto",
@@ -1757,7 +2336,8 @@
       "stickers/Teto/18.gif",
       "stickers/Teto/19.gif",
       "stickers/Teto/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Togawa Sakiko",
@@ -1835,7 +2415,50 @@
       "stickers/Togawa Sakiko/97.webp",
       "stickers/Togawa Sakiko/98.webp",
       "stickers/Togawa Sakiko/99.webp"
+    ],
+    "lostmedia": [
+      "stickers/Togawa Sakiko/LM_02.png"
     ]
+  },
+  {
+    "name": "Togawa Sakiko (Costume 2)",
+    "folder": "Togawa Sakiko (Costume 2)",
+    "preview": "stickers/Togawa Sakiko (Costume 2)/01.gif",
+    "images": [
+      "stickers/Togawa Sakiko (Costume 2)/01.gif",
+      "stickers/Togawa Sakiko (Costume 2)/LLSUo8A.gif",
+      "stickers/Togawa Sakiko (Costume 2)/VUt0XvJ.gif",
+      "stickers/Togawa Sakiko (Costume 2)/dxhwtMY.gif",
+      "stickers/Togawa Sakiko (Costume 2)/uD4GWU9.gif"
+    ],
+    "lostmedia": [
+      "stickers/Togawa Sakiko (Costume 2)/LM_01.webp",
+      "stickers/Togawa Sakiko (Costume 2)/LM_02.webp",
+      "stickers/Togawa Sakiko (Costume 2)/LM_03.webp",
+      "stickers/Togawa Sakiko (Costume 2)/LM_04.webp",
+      "stickers/Togawa Sakiko (Costume 2)/LM_05.webp"
+    ]
+  },
+  {
+    "name": "Togawa Sakiko (Costume 3)",
+    "folder": "Togawa Sakiko (Costume 3)",
+    "preview": "stickers/Togawa Sakiko (Costume 3)/00.webp",
+    "images": [
+      "stickers/Togawa Sakiko (Costume 3)/00.webp",
+      "stickers/Togawa Sakiko (Costume 3)/01.gif",
+      "stickers/Togawa Sakiko (Costume 3)/01.webp",
+      "stickers/Togawa Sakiko (Costume 3)/02.webp",
+      "stickers/Togawa Sakiko (Costume 3)/03.webp",
+      "stickers/Togawa Sakiko (Costume 3)/04.webp",
+      "stickers/Togawa Sakiko (Costume 3)/05.webp",
+      "stickers/Togawa Sakiko (Costume 3)/06.webp",
+      "stickers/Togawa Sakiko (Costume 3)/07.webp",
+      "stickers/Togawa Sakiko (Costume 3)/08.webp",
+      "stickers/Togawa Sakiko (Costume 3)/09.webp",
+      "stickers/Togawa Sakiko (Costume 3)/10.webp",
+      "stickers/Togawa Sakiko (Costume 3)/11.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Togawa Sakiko (Costume)",
@@ -1882,6 +2505,9 @@
       "stickers/Togawa Sakiko (Costume)/38.gif",
       "stickers/Togawa Sakiko (Costume)/39.gif",
       "stickers/Togawa Sakiko (Costume)/40.gif"
+    ],
+    "lostmedia": [
+      "stickers/Togawa Sakiko (Costume)/LM_01.jpg"
     ]
   },
   {
@@ -1899,7 +2525,8 @@
       "stickers/Tsuyuzaki Mahiru/08.gif",
       "stickers/Tsuyuzaki Mahiru/09.gif",
       "stickers/Tsuyuzaki Mahiru/10.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Vedal Neuro",
@@ -1954,7 +2581,8 @@
       "stickers/Vedal Neuro/\u9634\u9669.gif",
       "stickers/Vedal Neuro/\u9707\u60ca.gif",
       "stickers/Vedal Neuro/\u9f13\u638c.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Wakaba Mutsumi",
@@ -1983,6 +2611,7 @@
       "stickers/Wakaba Mutsumi/18.gif",
       "stickers/Wakaba Mutsumi/19.gif",
       "stickers/Wakaba Mutsumi/20.gif",
+      "stickers/Wakaba Mutsumi/200.gif",
       "stickers/Wakaba Mutsumi/21.gif",
       "stickers/Wakaba Mutsumi/22.gif",
       "stickers/Wakaba Mutsumi/23.gif",
@@ -2062,7 +2691,8 @@
       "stickers/Wakaba Mutsumi/97.gif",
       "stickers/Wakaba Mutsumi/98.gif",
       "stickers/Wakaba Mutsumi/99.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Wakaba Mutsumi (Alt)",
@@ -2117,7 +2747,20 @@
       "stickers/Wakaba Mutsumi (Alt)/46.webp",
       "stickers/Wakaba Mutsumi (Alt)/47.webp",
       "stickers/Wakaba Mutsumi (Alt)/48.webp"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Wakaba Mutsumi (Costume)",
+    "folder": "Wakaba Mutsumi (Costume)",
+    "preview": "stickers/Wakaba Mutsumi (Costume)/01.gif",
+    "images": [
+      "stickers/Wakaba Mutsumi (Costume)/01.gif",
+      "stickers/Wakaba Mutsumi (Costume)/02.gif",
+      "stickers/Wakaba Mutsumi (Costume)/03.gif",
+      "stickers/Wakaba Mutsumi (Costume)/04.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Wakana Rei",
@@ -2144,7 +2787,8 @@
       "stickers/Wakana Rei/18.gif",
       "stickers/Wakana Rei/19.gif",
       "stickers/Wakana Rei/20.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "Yachiyo",
@@ -2156,7 +2800,19 @@
       "stickers/Yachiyo/03.webp",
       "stickers/Yachiyo/04.webp",
       "stickers/Yachiyo/05.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Yahata Umiri",
+    "folder": "Yahata Umiri",
+    "preview": "stickers/Yahata Umiri/01.gif",
+    "images": [
+      "stickers/Yahata Umiri/01.gif",
+      "stickers/Yahata Umiri/02.gif",
+      "stickers/Yahata Umiri/03.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Yukina Minato",
@@ -2183,7 +2839,17 @@
       "stickers/Yukina Minato/18.gif",
       "stickers/Yukina Minato/19.gif",
       "stickers/Yukina Minato/20.gif"
-    ]
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Yuutenji Nyamu (Alt)",
+    "folder": "Yuutenji Nyamu (Alt)",
+    "preview": "stickers/Yuutenji Nyamu (Alt)/01.gif",
+    "images": [
+      "stickers/Yuutenji Nyamu (Alt)/01.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "_IDK001",
@@ -2210,31 +2876,17 @@
       "stickers/_IDK001/19.gif",
       "stickers/_IDK001/20.gif",
       "stickers/_IDK001/21.gif"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "_IDK002",
     "folder": "_IDK002",
-    "preview": "stickers/_IDK002/199.webp",
+    "preview": "stickers/_IDK002/d9d46794a34c391ebf4bc18d7a6b6c0424b9fc7ffbecef73b1a8f2f9fc37bae0.gif",
     "images": [
-      "stickers/_IDK002/199.webp",
-      "stickers/_IDK002/200.webp",
-      "stickers/_IDK002/201.webp",
-      "stickers/_IDK002/202.webp",
-      "stickers/_IDK002/203.webp",
-      "stickers/_IDK002/204.webp",
-      "stickers/_IDK002/205.webp",
-      "stickers/_IDK002/206.webp",
-      "stickers/_IDK002/207.webp",
-      "stickers/_IDK002/208.webp",
-      "stickers/_IDK002/209.webp",
-      "stickers/_IDK002/210.webp",
-      "stickers/_IDK002/211.webp",
-      "stickers/_IDK002/212.webp",
-      "stickers/_IDK002/213.webp",
-      "stickers/_IDK002/214.webp",
-      "stickers/_IDK002/215.webp"
-    ]
+      "stickers/_IDK002/d9d46794a34c391ebf4bc18d7a6b6c0424b9fc7ffbecef73b1a8f2f9fc37bae0.gif"
+    ],
+    "lostmedia": []
   },
   {
     "name": "_IDK003",
@@ -2249,7 +2901,8 @@
       "stickers/_IDK003/06.webp",
       "stickers/_IDK003/07.webp",
       "stickers/_IDK003/08.webp"
-    ]
+    ],
+    "lostmedia": []
   },
   {
     "name": "_IDK004",
@@ -2257,6 +2910,55 @@
     "preview": "stickers/_IDK004/01.webp",
     "images": [
       "stickers/_IDK004/01.webp"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "_IDK005",
+    "folder": "_IDK005",
+    "preview": "stickers/_IDK005/0c7af5b996a18171d4a8fa3601ca5bf62fdf36ecd707ce6aa00bad5091dd7c53.gif",
+    "images": [
+      "stickers/_IDK005/0c7af5b996a18171d4a8fa3601ca5bf62fdf36ecd707ce6aa00bad5091dd7c53.gif",
+      "stickers/_IDK005/8dcfd0084fbdecfa252689094fb0392cdd77ff8675025854ed475e1eba6301dc.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "_IDK006",
+    "folder": "_IDK006",
+    "preview": "stickers/_IDK006/LM_00.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/_IDK006/LM_00.png"
     ]
+  },
+  {
+    "name": "_IDK007",
+    "folder": "_IDK007",
+    "preview": "stickers/_IDK007/00.gif",
+    "images": [
+      "stickers/_IDK007/00.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "_IDK008",
+    "folder": "_IDK008",
+    "preview": "stickers/_IDK008/00.webp",
+    "images": [
+      "stickers/_IDK008/00.webp",
+      "stickers/_IDK008/01.webp",
+      "stickers/_IDK008/02.webp",
+      "stickers/_IDK008/03.webp",
+      "stickers/_IDK008/04.webp",
+      "stickers/_IDK008/05.webp",
+      "stickers/_IDK008/06.webp",
+      "stickers/_IDK008/07.webp",
+      "stickers/_IDK008/08.webp",
+      "stickers/_IDK008/09.webp",
+      "stickers/_IDK008/10.webp",
+      "stickers/_IDK008/11.webp"
+    ],
+    "lostmedia": []
   }
 ]

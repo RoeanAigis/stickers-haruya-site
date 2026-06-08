@@ -10,8 +10,11 @@ IMAGE_EXTS = (".webp", ".gif", ".png", ".jpg", ".jpeg")
 def get_images(folder_path):
     files = [f for f in os.listdir(folder_path) if f.lower().endswith(IMAGE_EXTS)]
     files.sort()
-
     return files
+
+
+def build_path(folder, filename):
+    return f"stickers/{folder}/{filename}"
 
 
 def main():
@@ -31,12 +34,23 @@ def main():
         if not images:
             continue
 
+        normal_images = [
+            build_path(folder, img) for img in images if not img.startswith("LM_")
+        ]
+
+        lost_media = [
+            build_path(folder, img) for img in images if img.startswith("LM_")
+        ]
+
+        preview_list = normal_images if normal_images else lost_media
+
         data.append(
             {
                 "name": folder,
                 "folder": folder,
-                "preview": f"stickers/{folder}/{images[0]}",
-                "images": [f"stickers/{folder}/{img}" for img in images],
+                "preview": preview_list[0],
+                "images": normal_images,
+                "lostmedia": lost_media,
             }
         )
 

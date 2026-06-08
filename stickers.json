@@ -206,6 +206,8 @@
       "stickers/Anon Chihaya (Costumes)/18.gif",
       "stickers/Anon Chihaya (Costumes)/19.gif",
       "stickers/Anon Chihaya (Costumes)/20.gif",
+      "stickers/Anon Chihaya (Costumes)/200.webp",
+      "stickers/Anon Chihaya (Costumes)/201.webp",
       "stickers/Anon Chihaya (Costumes)/21.gif",
       "stickers/Anon Chihaya (Costumes)/22.gif",
       "stickers/Anon Chihaya (Costumes)/23.gif",
@@ -306,10 +308,48 @@
     "lostmedia": []
   },
   {
+    "name": "Belle",
+    "folder": "Belle",
+    "preview": "stickers/Belle/00.webp",
+    "images": [
+      "stickers/Belle/00.webp",
+      "stickers/Belle/01.webp",
+      "stickers/Belle/02.webp",
+      "stickers/Belle/03.webp",
+      "stickers/Belle/04.webp",
+      "stickers/Belle/05.webp",
+      "stickers/Belle/06.webp",
+      "stickers/Belle/07.webp",
+      "stickers/Belle/08.webp",
+      "stickers/Belle/09.webp",
+      "stickers/Belle/10.webp",
+      "stickers/Belle/11.webp",
+      "stickers/Belle/12.webp",
+      "stickers/Belle/13.webp",
+      "stickers/Belle/14.webp",
+      "stickers/Belle/15.webp",
+      "stickers/Belle/16.webp",
+      "stickers/Belle/17.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Castorice",
     "folder": "Castorice",
-    "preview": "stickers/Castorice/LM_00.gif",
-    "images": [],
+    "preview": "stickers/Castorice/00.webp",
+    "images": [
+      "stickers/Castorice/00.webp",
+      "stickers/Castorice/01.webp",
+      "stickers/Castorice/02.webp",
+      "stickers/Castorice/03.webp",
+      "stickers/Castorice/04.webp",
+      "stickers/Castorice/05.webp",
+      "stickers/Castorice/06.webp",
+      "stickers/Castorice/07.webp",
+      "stickers/Castorice/08.webp",
+      "stickers/Castorice/09.webp",
+      "stickers/Castorice/10.webp"
+    ],
     "lostmedia": [
       "stickers/Castorice/LM_00.gif",
       "stickers/Castorice/LM_01.gif",
@@ -447,7 +487,11 @@
       "stickers/Cosmic Princess Kaguya/03.webp",
       "stickers/Cosmic Princess Kaguya/04.webp",
       "stickers/Cosmic Princess Kaguya/05.webp",
-      "stickers/Cosmic Princess Kaguya/06.webp"
+      "stickers/Cosmic Princess Kaguya/06.webp",
+      "stickers/Cosmic Princess Kaguya/07.webp",
+      "stickers/Cosmic Princess Kaguya/08.webp",
+      "stickers/Cosmic Princess Kaguya/09.webp",
+      "stickers/Cosmic Princess Kaguya/10.webp"
     ],
     "lostmedia": []
   },
@@ -822,6 +866,15 @@
     "lostmedia": []
   },
   {
+    "name": "Haruya",
+    "folder": "Haruya",
+    "preview": "stickers/Haruya/00.webp",
+    "images": [
+      "stickers/Haruya/00.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Hinanawi Tenshi",
     "folder": "Hinanawi Tenshi",
     "preview": "stickers/Hinanawi Tenshi/01.gif",
@@ -925,6 +978,18 @@
     "lostmedia": [
       "stickers/Hu Tao/LM_00.png"
     ]
+  },
+  {
+    "name": "Ichikame",
+    "folder": "Ichikame",
+    "preview": "stickers/Ichikame/01.webp",
+    "images": [
+      "stickers/Ichikame/01.webp",
+      "stickers/Ichikame/02.webp",
+      "stickers/Ichikame/03.webp",
+      "stickers/Ichikame/04.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Ikuyo Kita",
@@ -1429,6 +1494,15 @@
     "lostmedia": []
   },
   {
+    "name": "Miku Izayoi",
+    "folder": "Miku Izayoi",
+    "preview": "stickers/Miku Izayoi/LM_01.png",
+    "images": [],
+    "lostmedia": [
+      "stickers/Miku Izayoi/LM_01.png"
+    ]
+  },
+  {
     "name": "Minori Hanasato",
     "folder": "Minori Hanasato",
     "preview": "stickers/Minori Hanasato/LM_00.png",
@@ -1587,6 +1661,20 @@
     "lostmedia": []
   },
   {
+    "name": "Nina Iseri",
+    "folder": "Nina Iseri",
+    "preview": "stickers/Nina Iseri/05.webp",
+    "images": [
+      "stickers/Nina Iseri/05.webp",
+      "stickers/Nina Iseri/06.webp",
+      "stickers/Nina Iseri/07-1.webp",
+      "stickers/Nina Iseri/08.webp",
+      "stickers/Nina Iseri/09.webp",
+      "stickers/Nina Iseri/10.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Nyamu Y\u016btenji",
     "folder": "Nyamu Y\u016btenji",
     "preview": "stickers/Nyamu Y\u016btenji/01.gif",
@@ -1611,6 +1699,15 @@
       "stickers/Nyamu Y\u016btenji/18.gif",
       "stickers/Nyamu Y\u016btenji/19.gif",
       "stickers/Nyamu Y\u016btenji/20.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Nyamu Y\u016btenji (Alt)",
+    "folder": "Nyamu Y\u016btenji (Alt)",
+    "preview": "stickers/Nyamu Y\u016btenji (Alt)/01.gif",
+    "images": [
+      "stickers/Nyamu Y\u016btenji (Alt)/01.gif"
     ],
     "lostmedia": []
   },
@@ -1973,7 +2070,9 @@
     "images": [
       "stickers/Silverwolf 999/01.gif"
     ],
-    "lostmedia": []
+    "lostmedia": [
+      "stickers/Silverwolf 999/LM_01.png"
+    ]
   },
   {
     "name": "Soyo Nagasaki",
@@ -2002,6 +2101,7 @@
       "stickers/Soyo Nagasaki/20.gif",
       "stickers/Soyo Nagasaki/200.webp",
       "stickers/Soyo Nagasaki/201.webp",
+      "stickers/Soyo Nagasaki/202.webp",
       "stickers/Soyo Nagasaki/21.gif",
       "stickers/Soyo Nagasaki/22.gif",
       "stickers/Soyo Nagasaki/23.gif",
@@ -2023,7 +2123,9 @@
       "stickers/Soyo Nagasaki/39.gif",
       "stickers/Soyo Nagasaki/40.gif"
     ],
-    "lostmedia": []
+    "lostmedia": [
+      "stickers/Soyo Nagasaki/LM_01.png"
+    ]
   },
   {
     "name": "Soyo Nagasaki (Costumes)",
@@ -2284,6 +2386,18 @@
     "lostmedia": []
   },
   {
+    "name": "Takamatsu Tomori",
+    "folder": "Takamatsu Tomori",
+    "preview": "stickers/Takamatsu Tomori/00.webp",
+    "images": [
+      "stickers/Takamatsu Tomori/00.webp",
+      "stickers/Takamatsu Tomori/01.webp",
+      "stickers/Takamatsu Tomori/02.webp",
+      "stickers/Takamatsu Tomori/03.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Tamade Chiyu",
     "folder": "Tamade Chiyu",
     "preview": "stickers/Tamade Chiyu/01.gif",
@@ -2364,6 +2478,7 @@
       "stickers/Togawa Sakiko/117.webp",
       "stickers/Togawa Sakiko/118.webp",
       "stickers/Togawa Sakiko/119.webp",
+      "stickers/Togawa Sakiko/200.webp",
       "stickers/Togawa Sakiko/49.webp",
       "stickers/Togawa Sakiko/50.webp",
       "stickers/Togawa Sakiko/51.webp",
@@ -2417,7 +2532,11 @@
       "stickers/Togawa Sakiko/99.webp"
     ],
     "lostmedia": [
-      "stickers/Togawa Sakiko/LM_02.png"
+      "stickers/Togawa Sakiko/LM_00.gif",
+      "stickers/Togawa Sakiko/LM_01.png",
+      "stickers/Togawa Sakiko/LM_02.png",
+      "stickers/Togawa Sakiko/LM_03.png",
+      "stickers/Togawa Sakiko/LM_04.png"
     ]
   },
   {
@@ -2525,6 +2644,22 @@
       "stickers/Tsuyuzaki Mahiru/08.gif",
       "stickers/Tsuyuzaki Mahiru/09.gif",
       "stickers/Tsuyuzaki Mahiru/10.gif"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Uika Misumi (Spiderman)",
+    "folder": "Uika Misumi (Spiderman)",
+    "preview": "stickers/Uika Misumi (Spiderman)/01.webp",
+    "images": [
+      "stickers/Uika Misumi (Spiderman)/01.webp",
+      "stickers/Uika Misumi (Spiderman)/02.webp",
+      "stickers/Uika Misumi (Spiderman)/03.webp",
+      "stickers/Uika Misumi (Spiderman)/04.webp",
+      "stickers/Uika Misumi (Spiderman)/05.webp",
+      "stickers/Uika Misumi (Spiderman)/06.webp",
+      "stickers/Uika Misumi (Spiderman)/07.webp",
+      "stickers/Uika Misumi (Spiderman)/08.webp"
     ],
     "lostmedia": []
   },
@@ -2799,7 +2934,10 @@
       "stickers/Yachiyo/02.webp",
       "stickers/Yachiyo/03.webp",
       "stickers/Yachiyo/04.webp",
-      "stickers/Yachiyo/05.gif"
+      "stickers/Yachiyo/05.gif",
+      "stickers/Yachiyo/05.webp",
+      "stickers/Yachiyo/06.webp",
+      "stickers/Yachiyo/07.webp"
     ],
     "lostmedia": []
   },
@@ -2843,11 +2981,36 @@
     "lostmedia": []
   },
   {
-    "name": "Yuutenji Nyamu (Alt)",
-    "folder": "Yuutenji Nyamu (Alt)",
-    "preview": "stickers/Yuutenji Nyamu (Alt)/01.gif",
+    "name": "Zhuang Fangyi",
+    "folder": "Zhuang Fangyi",
+    "preview": "stickers/Zhuang Fangyi/00.webp",
     "images": [
-      "stickers/Yuutenji Nyamu (Alt)/01.gif"
+      "stickers/Zhuang Fangyi/00.webp",
+      "stickers/Zhuang Fangyi/01.webp",
+      "stickers/Zhuang Fangyi/02.webp",
+      "stickers/Zhuang Fangyi/03.webp",
+      "stickers/Zhuang Fangyi/04.webp",
+      "stickers/Zhuang Fangyi/05.webp",
+      "stickers/Zhuang Fangyi/06.webp",
+      "stickers/Zhuang Fangyi/07.webp",
+      "stickers/Zhuang Fangyi/08.webp",
+      "stickers/Zhuang Fangyi/09.webp",
+      "stickers/Zhuang Fangyi/10.webp",
+      "stickers/Zhuang Fangyi/11.webp",
+      "stickers/Zhuang Fangyi/12.webp",
+      "stickers/Zhuang Fangyi/13.webp",
+      "stickers/Zhuang Fangyi/14.webp",
+      "stickers/Zhuang Fangyi/15.webp",
+      "stickers/Zhuang Fangyi/16.webp",
+      "stickers/Zhuang Fangyi/17.webp",
+      "stickers/Zhuang Fangyi/18.webp",
+      "stickers/Zhuang Fangyi/19.webp",
+      "stickers/Zhuang Fangyi/20.webp",
+      "stickers/Zhuang Fangyi/21.webp",
+      "stickers/Zhuang Fangyi/22.webp",
+      "stickers/Zhuang Fangyi/23.webp",
+      "stickers/Zhuang Fangyi/24.webp",
+      "stickers/Zhuang Fangyi/25.webp"
     ],
     "lostmedia": []
   },
@@ -2958,6 +3121,15 @@
       "stickers/_IDK008/09.webp",
       "stickers/_IDK008/10.webp",
       "stickers/_IDK008/11.webp"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "_IDK009",
+    "folder": "_IDK009",
+    "preview": "stickers/_IDK009/00.webp",
+    "images": [
+      "stickers/_IDK009/00.webp"
     ],
     "lostmedia": []
   }

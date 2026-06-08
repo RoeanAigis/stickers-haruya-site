@@ -185,8 +185,8 @@
 
                     img.onclick = () => {
                         const a = document.createElement("a");
-                        a.href = src;
-                        a.download = src.split("/").pop();
+                        a.href = BASE + src;
+                        a.download = (BASE + src).split("/").pop();
                         a.click();
                     };
 

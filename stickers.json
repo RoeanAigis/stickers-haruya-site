@@ -1105,6 +1105,15 @@
     "lostmedia": []
   },
   {
+    "name": "Hiro",
+    "folder": "Hiro",
+    "preview": "stickers/Hiro/01.webp",
+    "images": [
+      "stickers/Hiro/01.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Hitori Gotoh",
     "folder": "Hitori Gotoh",
     "preview": "stickers/Hitori Gotoh/01.webp",
@@ -2181,7 +2190,8 @@
       "stickers/Rossi/13.webp",
       "stickers/Rossi/14.webp",
       "stickers/Rossi/15.webp",
-      "stickers/Rossi/16.webp"
+      "stickers/Rossi/16.webp",
+      "stickers/Rossi/17.webp"
     ],
     "lostmedia": []
   },
@@ -2762,7 +2772,12 @@
       "stickers/Tangtang/14.webp",
       "stickers/Tangtang/15.webp",
       "stickers/Tangtang/16.webp",
-      "stickers/Tangtang/17.webp"
+      "stickers/Tangtang/17.webp",
+      "stickers/Tangtang/18.webp",
+      "stickers/Tangtang/19.webp",
+      "stickers/Tangtang/20.webp",
+      "stickers/Tangtang/21.webp",
+      "stickers/Tangtang/22.webp"
     ],
     "lostmedia": []
   },

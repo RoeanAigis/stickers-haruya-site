@@ -594,6 +594,23 @@
     "lostmedia": []
   },
   {
+    "name": "Cynthia II",
+    "folder": "Cynthia II",
+    "preview": "stickers/Cynthia II/01.webp",
+    "images": [
+      "stickers/Cynthia II/01.webp",
+      "stickers/Cynthia II/02.webp",
+      "stickers/Cynthia II/03.webp",
+      "stickers/Cynthia II/04.webp",
+      "stickers/Cynthia II/05.webp",
+      "stickers/Cynthia II/06.webp",
+      "stickers/Cynthia II/07.webp",
+      "stickers/Cynthia II/08.webp",
+      "stickers/Cynthia II/09.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Cyrene",
     "folder": "Cyrene",
     "preview": "stickers/Cyrene/00.webp",
@@ -710,6 +727,15 @@
       "stickers/Endministrator/4c3d4a4b16fdfc4ce4f71079369974c0503ab36033e7df5998c01127c2cceaec.gif",
       "stickers/Endministrator/663580d477ac5f1c5cfafaeffccc3c045f38a4ce2aedc0bc06c164218cfd25d0.gif",
       "stickers/Endministrator/702bb4b43ee8ddc720a3575aad0a5d5a43cf4a341220a970e68a0a8f6cca365a.gif",
+      "stickers/Endministrator/SQ2_19.webp",
+      "stickers/Endministrator/SQ2_20.webp",
+      "stickers/Endministrator/SQ2_21.webp",
+      "stickers/Endministrator/SQ2_22.webp",
+      "stickers/Endministrator/SQ2_23.webp",
+      "stickers/Endministrator/SQ2_24.webp",
+      "stickers/Endministrator/SQ2_25.webp",
+      "stickers/Endministrator/SQ2_26.webp",
+      "stickers/Endministrator/SQ2_27.webp",
       "stickers/Endministrator/e6e3433f894023758d340a14ce7111b4e489098d6df17baff450a8b1b45bf76e.gif"
     ],
     "lostmedia": []
@@ -1731,6 +1757,23 @@
     "lostmedia": []
   },
   {
+    "name": "Mi Fu",
+    "folder": "Mi Fu",
+    "preview": "stickers/Mi Fu/01.webp",
+    "images": [
+      "stickers/Mi Fu/01.webp",
+      "stickers/Mi Fu/02.webp",
+      "stickers/Mi Fu/03.webp",
+      "stickers/Mi Fu/04.webp",
+      "stickers/Mi Fu/05.webp",
+      "stickers/Mi Fu/06.webp",
+      "stickers/Mi Fu/07.webp",
+      "stickers/Mi Fu/08.webp",
+      "stickers/Mi Fu/09.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "MiSide",
     "folder": "MiSide",
     "preview": "stickers/MiSide/01.gif",
@@ -2336,7 +2379,9 @@
       "stickers/Sandrone/16.webp",
       "stickers/Sandrone/17.webp"
     ],
-    "lostmedia": []
+    "lostmedia": [
+      "stickers/Sandrone/LM_01.webp"
+    ]
   },
   {
     "name": "Satou Masuki",
@@ -2385,6 +2430,29 @@
     "lostmedia": [
       "stickers/Silverwolf 999/LM_01.png"
     ]
+  },
+  {
+    "name": "Snowish Laru",
+    "folder": "Snowish Laru",
+    "preview": "stickers/Snowish Laru/01.webp",
+    "images": [
+      "stickers/Snowish Laru/01.webp",
+      "stickers/Snowish Laru/02.webp",
+      "stickers/Snowish Laru/03.webp",
+      "stickers/Snowish Laru/04.webp",
+      "stickers/Snowish Laru/05.webp",
+      "stickers/Snowish Laru/06.webp",
+      "stickers/Snowish Laru/07.webp",
+      "stickers/Snowish Laru/08.webp",
+      "stickers/Snowish Laru/09.webp",
+      "stickers/Snowish Laru/10.webp",
+      "stickers/Snowish Laru/11.webp",
+      "stickers/Snowish Laru/12.webp",
+      "stickers/Snowish Laru/13.webp",
+      "stickers/Snowish Laru/14.webp",
+      "stickers/Snowish Laru/15.webp"
+    ],
+    "lostmedia": []
   },
   {
     "name": "Soyo Nagasaki",

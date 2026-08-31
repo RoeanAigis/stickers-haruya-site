@@ -1307,7 +1307,9 @@
       "stickers/Iroha/29.webp",
       "stickers/Iroha/30.webp",
       "stickers/Iroha/31.webp",
-      "stickers/Iroha/32.webp"
+      "stickers/Iroha/32.webp",
+      "stickers/Iroha/33.gif",
+      "stickers/Iroha/34.gif"
     ],
     "lostmedia": []
   },
@@ -1369,6 +1371,27 @@
       "stickers/Kaname Raana/157.webp",
       "stickers/Kaname Raana/158.webp",
       "stickers/Kaname Raana/159.webp"
+    ],
+    "lostmedia": []
+  },
+  {
+    "name": "Kannawasenpai",
+    "folder": "Kannawasenpai",
+    "preview": "stickers/Kannawasenpai/01.webp",
+    "images": [
+      "stickers/Kannawasenpai/01.webp",
+      "stickers/Kannawasenpai/02.webp",
+      "stickers/Kannawasenpai/03.webp",
+      "stickers/Kannawasenpai/04.webp",
+      "stickers/Kannawasenpai/05.webp",
+      "stickers/Kannawasenpai/06.webp",
+      "stickers/Kannawasenpai/07.webp",
+      "stickers/Kannawasenpai/08.webp",
+      "stickers/Kannawasenpai/09.gif",
+      "stickers/Kannawasenpai/10.gif",
+      "stickers/Kannawasenpai/11.gif",
+      "stickers/Kannawasenpai/12.gif",
+      "stickers/Kannawasenpai/13.gif"
     ],
     "lostmedia": []
   },
@@ -3652,22 +3675,6 @@
     "lostmedia": []
   },
   {
-    "name": "_IDK003",
-    "folder": "_IDK003",
-    "preview": "stickers/_IDK003/01.webp",
-    "images": [
-      "stickers/_IDK003/01.webp",
-      "stickers/_IDK003/02.webp",
-      "stickers/_IDK003/03.webp",
-      "stickers/_IDK003/04.webp",
-      "stickers/_IDK003/05.webp",
-      "stickers/_IDK003/06.webp",
-      "stickers/_IDK003/07.webp",
-      "stickers/_IDK003/08.webp"
-    ],
-    "lostmedia": []
-  },
-  {
     "name": "_IDK004",
     "folder": "_IDK004",
     "preview": "stickers/_IDK004/01.webp",
@@ -3709,9 +3716,13 @@
     "folder": "_IDK009",
     "preview": "stickers/_IDK009/00.webp",
     "images": [
-      "stickers/_IDK009/00.webp"
+      "stickers/_IDK009/00.webp",
+      "stickers/_IDK009/01.gif"
     ],
-    "lostmedia": []
+    "lostmedia": [
+      "stickers/_IDK009/LM_01.jpg",
+      "stickers/_IDK009/LM_02.jpg"
+    ]
   },
   {
     "name": "_IDK010",

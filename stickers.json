@@ -1699,6 +1699,26 @@
     "lostmedia": []
   },
   {
+    "name": "Krithia (Roco Kingdom) (Alt)",
+    "folder": "Krithia (Roco Kingdom) (Alt)",
+    "preview": "stickers/Krithia (Roco Kingdom) (Alt)/00.webp",
+    "images": [
+      "stickers/Krithia (Roco Kingdom) (Alt)/00.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/01.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/02.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/03.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/04.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/05.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/06.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/07.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/08.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/09.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/10.webp",
+      "stickers/Krithia (Roco Kingdom) (Alt)/11.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Kurumi Tokisaki",
     "folder": "Kurumi Tokisaki",
     "preview": "stickers/Kurumi Tokisaki/LM_00.gif",
@@ -3680,26 +3700,6 @@
     "preview": "stickers/_IDK007/00.gif",
     "images": [
       "stickers/_IDK007/00.gif"
-    ],
-    "lostmedia": []
-  },
-  {
-    "name": "_IDK008",
-    "folder": "_IDK008",
-    "preview": "stickers/_IDK008/00.webp",
-    "images": [
-      "stickers/_IDK008/00.webp",
-      "stickers/_IDK008/01.webp",
-      "stickers/_IDK008/02.webp",
-      "stickers/_IDK008/03.webp",
-      "stickers/_IDK008/04.webp",
-      "stickers/_IDK008/05.webp",
-      "stickers/_IDK008/06.webp",
-      "stickers/_IDK008/07.webp",
-      "stickers/_IDK008/08.webp",
-      "stickers/_IDK008/09.webp",
-      "stickers/_IDK008/10.webp",
-      "stickers/_IDK008/11.webp"
     ],
     "lostmedia": []
   },

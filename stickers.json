@@ -1743,6 +1743,16 @@
     "lostmedia": []
   },
   {
+    "name": "Lemuen (Arknights)",
+    "folder": "Lemuen (Arknights)",
+    "preview": "stickers/Lemuen (Arknights)/LM_01.gif",
+    "images": [],
+    "lostmedia": [
+      "stickers/Lemuen (Arknights)/LM_01.gif",
+      "stickers/Lemuen (Arknights)/LM_02.gif"
+    ]
+  },
+  {
     "name": "Luo Xiaohei",
     "folder": "Luo Xiaohei",
     "preview": "stickers/Luo Xiaohei/00.webp",
@@ -3640,15 +3650,6 @@
       "stickers/Zhuang Fangyi/25.webp"
     ],
     "lostmedia": []
-  },
-  {
-    "name": "_IDK002",
-    "folder": "_IDK002",
-    "preview": "stickers/_IDK002/LM_01.gif",
-    "images": [],
-    "lostmedia": [
-      "stickers/_IDK002/LM_01.gif"
-    ]
   },
   {
     "name": "_IDK003",

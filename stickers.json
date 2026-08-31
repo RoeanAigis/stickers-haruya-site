@@ -207,6 +207,34 @@
     "lostmedia": []
   },
   {
+    "name": "Anon Chihaya (Alt)",
+    "folder": "Anon Chihaya (Alt)",
+    "preview": "stickers/Anon Chihaya (Alt)/02.gif",
+    "images": [
+      "stickers/Anon Chihaya (Alt)/02.gif",
+      "stickers/Anon Chihaya (Alt)/03.gif",
+      "stickers/Anon Chihaya (Alt)/04.gif",
+      "stickers/Anon Chihaya (Alt)/05.gif",
+      "stickers/Anon Chihaya (Alt)/06.gif",
+      "stickers/Anon Chihaya (Alt)/07.gif",
+      "stickers/Anon Chihaya (Alt)/08.gif",
+      "stickers/Anon Chihaya (Alt)/09.gif",
+      "stickers/Anon Chihaya (Alt)/10.gif",
+      "stickers/Anon Chihaya (Alt)/11.gif",
+      "stickers/Anon Chihaya (Alt)/12.gif",
+      "stickers/Anon Chihaya (Alt)/13.gif",
+      "stickers/Anon Chihaya (Alt)/14.gif",
+      "stickers/Anon Chihaya (Alt)/15.gif",
+      "stickers/Anon Chihaya (Alt)/16.gif",
+      "stickers/Anon Chihaya (Alt)/17.gif",
+      "stickers/Anon Chihaya (Alt)/18.gif",
+      "stickers/Anon Chihaya (Alt)/19.gif",
+      "stickers/Anon Chihaya (Alt)/20.gif",
+      "stickers/Anon Chihaya (Alt)/21.gif"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Anon Chihaya (Costumes)",
     "folder": "Anon Chihaya (Costumes)",
     "preview": "stickers/Anon Chihaya (Costumes)/01.gif",
@@ -1046,6 +1074,18 @@
     "lostmedia": []
   },
   {
+    "name": "HarukaCC",
+    "folder": "HarukaCC",
+    "preview": "stickers/HarukaCC/LM_01.webp",
+    "images": [],
+    "lostmedia": [
+      "stickers/HarukaCC/LM_01.webp",
+      "stickers/HarukaCC/LM_02.webp",
+      "stickers/HarukaCC/LM_03.webp",
+      "stickers/HarukaCC/LM_04.webp"
+    ]
+  },
+  {
     "name": "Haruya",
     "folder": "Haruya",
     "preview": "stickers/Haruya/00.webp",
@@ -1169,6 +1209,23 @@
     ]
   },
   {
+    "name": "Hugin & Munin (Silver Palace)",
+    "folder": "Hugin & Munin (Silver Palace)",
+    "preview": "stickers/Hugin & Munin (Silver Palace)/01.webp",
+    "images": [
+      "stickers/Hugin & Munin (Silver Palace)/01.webp",
+      "stickers/Hugin & Munin (Silver Palace)/02.webp",
+      "stickers/Hugin & Munin (Silver Palace)/03.webp",
+      "stickers/Hugin & Munin (Silver Palace)/04.webp",
+      "stickers/Hugin & Munin (Silver Palace)/05.webp",
+      "stickers/Hugin & Munin (Silver Palace)/06.webp",
+      "stickers/Hugin & Munin (Silver Palace)/07.webp",
+      "stickers/Hugin & Munin (Silver Palace)/08.webp",
+      "stickers/Hugin & Munin (Silver Palace)/09.webp"
+    ],
+    "lostmedia": []
+  },
+  {
     "name": "Hyacine",
     "folder": "Hyacine",
     "preview": "stickers/Hyacine/01.webp",
@@ -1253,6 +1310,19 @@
       "stickers/Iroha/32.webp"
     ],
     "lostmedia": []
+  },
+  {
+    "name": "Kal'tsit",
+    "folder": "Kal'tsit",
+    "preview": "stickers/Kal'tsit/01.gif",
+    "images": [
+      "stickers/Kal'tsit/01.gif",
+      "stickers/Kal'tsit/02.gif",
+      "stickers/Kal'tsit/03.gif"
+    ],
+    "lostmedia": [
+      "stickers/Kal'tsit/LM_01.gif"
+    ]
   },
   {
     "name": "Kaname Raana",
@@ -3416,7 +3486,38 @@
     "images": [
       "stickers/Yahata Umiri/01.gif",
       "stickers/Yahata Umiri/02.gif",
-      "stickers/Yahata Umiri/03.gif"
+      "stickers/Yahata Umiri/03.gif",
+      "stickers/Yahata Umiri/04.gif",
+      "stickers/Yahata Umiri/06.gif",
+      "stickers/Yahata Umiri/07.gif"
+    ],
+    "lostmedia": [
+      "stickers/Yahata Umiri/LM_01.gif"
+    ]
+  },
+  {
+    "name": "Yamashiro (Kantai Collection)",
+    "folder": "Yamashiro (Kantai Collection)",
+    "preview": "stickers/Yamashiro (Kantai Collection)/01.webp",
+    "images": [
+      "stickers/Yamashiro (Kantai Collection)/01.webp",
+      "stickers/Yamashiro (Kantai Collection)/02.webp",
+      "stickers/Yamashiro (Kantai Collection)/03.webp",
+      "stickers/Yamashiro (Kantai Collection)/04.webp",
+      "stickers/Yamashiro (Kantai Collection)/05.webp",
+      "stickers/Yamashiro (Kantai Collection)/06.webp",
+      "stickers/Yamashiro (Kantai Collection)/07.webp",
+      "stickers/Yamashiro (Kantai Collection)/08.webp",
+      "stickers/Yamashiro (Kantai Collection)/09.webp",
+      "stickers/Yamashiro (Kantai Collection)/10.webp",
+      "stickers/Yamashiro (Kantai Collection)/11.webp",
+      "stickers/Yamashiro (Kantai Collection)/12.webp",
+      "stickers/Yamashiro (Kantai Collection)/13.webp",
+      "stickers/Yamashiro (Kantai Collection)/14.webp",
+      "stickers/Yamashiro (Kantai Collection)/15.webp",
+      "stickers/Yamashiro (Kantai Collection)/16.webp",
+      "stickers/Yamashiro (Kantai Collection)/17.webp",
+      "stickers/Yamashiro (Kantai Collection)/18.webp"
     ],
     "lostmedia": []
   },
@@ -3521,41 +3622,13 @@
     "lostmedia": []
   },
   {
-    "name": "_IDK001",
-    "folder": "_IDK001",
-    "preview": "stickers/_IDK001/02.gif",
-    "images": [
-      "stickers/_IDK001/02.gif",
-      "stickers/_IDK001/03.gif",
-      "stickers/_IDK001/04.gif",
-      "stickers/_IDK001/05.gif",
-      "stickers/_IDK001/06.gif",
-      "stickers/_IDK001/07.gif",
-      "stickers/_IDK001/08.gif",
-      "stickers/_IDK001/09.gif",
-      "stickers/_IDK001/10.gif",
-      "stickers/_IDK001/11.gif",
-      "stickers/_IDK001/12.gif",
-      "stickers/_IDK001/13.gif",
-      "stickers/_IDK001/14.gif",
-      "stickers/_IDK001/15.gif",
-      "stickers/_IDK001/16.gif",
-      "stickers/_IDK001/17.gif",
-      "stickers/_IDK001/18.gif",
-      "stickers/_IDK001/19.gif",
-      "stickers/_IDK001/20.gif",
-      "stickers/_IDK001/21.gif"
-    ],
-    "lostmedia": []
-  },
-  {
     "name": "_IDK002",
     "folder": "_IDK002",
-    "preview": "stickers/_IDK002/d9d46794a34c391ebf4bc18d7a6b6c0424b9fc7ffbecef73b1a8f2f9fc37bae0.gif",
-    "images": [
-      "stickers/_IDK002/d9d46794a34c391ebf4bc18d7a6b6c0424b9fc7ffbecef73b1a8f2f9fc37bae0.gif"
-    ],
-    "lostmedia": []
+    "preview": "stickers/_IDK002/LM_01.gif",
+    "images": [],
+    "lostmedia": [
+      "stickers/_IDK002/LM_01.gif"
+    ]
   },
   {
     "name": "_IDK003",
@@ -3585,12 +3658,12 @@
   {
     "name": "_IDK005",
     "folder": "_IDK005",
-    "preview": "stickers/_IDK005/0c7af5b996a18171d4a8fa3601ca5bf62fdf36ecd707ce6aa00bad5091dd7c53.gif",
-    "images": [
-      "stickers/_IDK005/0c7af5b996a18171d4a8fa3601ca5bf62fdf36ecd707ce6aa00bad5091dd7c53.gif",
-      "stickers/_IDK005/8dcfd0084fbdecfa252689094fb0392cdd77ff8675025854ed475e1eba6301dc.gif"
-    ],
-    "lostmedia": []
+    "preview": "stickers/_IDK005/LM_01.gif",
+    "images": [],
+    "lostmedia": [
+      "stickers/_IDK005/LM_01.gif",
+      "stickers/_IDK005/LM_02.gif"
+    ]
   },
   {
     "name": "_IDK006",
@@ -3647,32 +3720,6 @@
       "stickers/_IDK010/01.webp",
       "stickers/_IDK010/02.webp",
       "stickers/_IDK010/03.webp"
-    ],
-    "lostmedia": []
-  },
-  {
-    "name": "_IDK011",
-    "folder": "_IDK011",
-    "preview": "stickers/_IDK011/01.webp",
-    "images": [
-      "stickers/_IDK011/01.webp",
-      "stickers/_IDK011/02.webp",
-      "stickers/_IDK011/03.webp",
-      "stickers/_IDK011/04.webp",
-      "stickers/_IDK011/05.webp",
-      "stickers/_IDK011/06.webp",
-      "stickers/_IDK011/07.webp",
-      "stickers/_IDK011/08.webp",
-      "stickers/_IDK011/09.webp",
-      "stickers/_IDK011/10.webp",
-      "stickers/_IDK011/11.webp",
-      "stickers/_IDK011/12.webp",
-      "stickers/_IDK011/13.webp",
-      "stickers/_IDK011/14.webp",
-      "stickers/_IDK011/15.webp",
-      "stickers/_IDK011/16.webp",
-      "stickers/_IDK011/17.webp",
-      "stickers/_IDK011/18.webp"
     ],
     "lostmedia": []
   }
